@@ -9,5 +9,5 @@ First, install pipenv. then:
 
 ```
 pipenv install
-pipenv run "python python-for-beginners-57df7867-aec0-4618-ac1b-5d363587f489.py"
+pipenv run "python meteors/python-for-beginners-57df7867-aec0-4618-ac1b-5d363587f489.py"
 ```
